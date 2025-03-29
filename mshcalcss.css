@@ -1,0 +1,25 @@
+.image{
+    width: 50%;
+}
+.remaining{
+background-color: #ADD8E6;
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 50%;
+}
+.caluclate_btn{
+    background-color: #008CBA;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: white;
+    
+}
+.main{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
